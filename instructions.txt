@@ -1,0 +1,6 @@
+1. Place ROUTER.py inside the C:\ drive
+2. Open Python IDLE Shell
+3. Go to File>Open and select C:\ROUTER.py
+4. Go to Run>Run Module
+
+Now you are in the shell!
